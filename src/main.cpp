@@ -12,6 +12,7 @@
 
  // TODO 1:
  // Define TRIG pin (Use pin 9)
+#define TRIG_PIN 9
 
  // TODO 2:
  // Define ECHO pin (Use pin 10)
