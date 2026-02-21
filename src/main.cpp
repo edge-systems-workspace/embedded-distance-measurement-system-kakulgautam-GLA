@@ -24,6 +24,7 @@ long duration = 0;
 
  // TODO 4:
  // Create variable to store calculated distance
+float distance = 0;
 
 void setup() {
 
