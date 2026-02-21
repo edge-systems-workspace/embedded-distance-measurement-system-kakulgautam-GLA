@@ -16,6 +16,7 @@
 
  // TODO 2:
  // Define ECHO pin (Use pin 10)
+#define ECHO_PIN 10
 
  // TODO 3:
  // Create variable to store duration
