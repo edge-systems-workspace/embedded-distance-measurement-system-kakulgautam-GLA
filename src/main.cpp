@@ -20,6 +20,7 @@
 
  // TODO 3:
  // Create variable to store duration
+long duration = 0;
 
  // TODO 4:
  // Create variable to store calculated distance
